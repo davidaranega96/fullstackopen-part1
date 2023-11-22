@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import { createLogger } from 'vite';
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
